@@ -13,9 +13,11 @@ CircleImageView: This library is used for to make image in circle view.
 Picasso: Picasso allows for hassle-free image loading. It is used for complex image transformation with minimal memory use.
 
 #Kotlin
+
 Kotlin is modern concise while being expressive. It contains safety features for nullability and immutability, to make your Android apps healthy and performant by default. 
 
 #Run 
+
 Checkout from Version Control- Github,
 make clone and open in Android Studio,
 create emulator and run app NYTSample.
