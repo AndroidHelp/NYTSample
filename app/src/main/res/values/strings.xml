@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYTSample</string>
+
+    <string name="heading_read_more">Read more</string>
+    <string name="action_click_here">Click here</string>
+
+    <string name="message_no_data">Sorry, there is no data</string>
+    <string name="action_retry">Click here</string>
+    <string name="message_no_internet_connection">Oops, no internet connection</string>
+</resources>
